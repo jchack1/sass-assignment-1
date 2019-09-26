@@ -1,5 +1,6 @@
 // variables
 $primary-color: #f59;
+$secondary-color: green;
 
 
 
@@ -141,7 +142,7 @@ nav {
 nav .logo {
   float: left;
   margin: 15px;
-  background: #239;
+  background: $secondary-color;
   height: 30px;
   width: 30px;
   border-radius: 20px;
@@ -243,14 +244,14 @@ footer a {
 
 
 .card {
-  background: #239;
+  background: $secondary-color;
   height: 130px;
   padding: 20px;
 }
 
 
 .product-summary-card {
-  background: #239;
+  background: $secondary-color;
   height: 130px;
   padding: 20px;
   text-align: center;
@@ -272,7 +273,7 @@ footer a {
 
 
 .employee-card {
-  background: #239;
+  background: $secondary-color;
   height: 130px;
   padding: 20px;
   text-align: left;
@@ -292,7 +293,7 @@ footer a {
 }
 
 .product-card {
-  background: #239;
+  background: $secondary-color;
   height: 130px;
   padding: 20px;
   text-align: left;
