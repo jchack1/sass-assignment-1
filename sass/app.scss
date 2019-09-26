@@ -1,6 +1,7 @@
 // variables
 $primary-color: #f59;
 $secondary-color: green;
+$tertiary-color: yellow;
 
 
 
@@ -175,7 +176,7 @@ nav .button {
 }
 
 .hero {
-  background: #ddd;
+  background: $tertiary-color;
   margin-bottom: 15px;
   text-align: center;
   background: linear-gradient(
@@ -194,7 +195,7 @@ nav .button {
 }
 
 .hero-title {
-  background: #ddd;
+  background: $tertiary-color;
   margin-bottom: 15px;
   text-align: center;
   background: linear-gradient(
