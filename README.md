@@ -1,3 +1,3 @@
 # sass-assignment-1
 
-This is what it looks like: https://elegant-mclean-355edf.netlify.com/
+Converted CSS to SASS on this codepen: https://codepen.io/jchack/pen/RwbOgrO?editors=1100
